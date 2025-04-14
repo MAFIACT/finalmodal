@@ -1,5 +1,5 @@
 {
-  "name": "my-web3-dashboard-v2",
+  "name": "my-web3-dashboard",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,9 +12,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "ethers": "^6.7.0",
-    "viem": "^2.4.0",
     "wagmi": "^2.6.0",
-    "@web3modal/wagmi": "^2.4.2"
+    "viem": "^2.4.0",
+    "@web3modal/wagmi": "2.3.0"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.1",
